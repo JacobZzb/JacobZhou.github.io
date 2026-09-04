@@ -37,12 +37,10 @@ nav a:hover {
     color: #cfb991;
 }
 
-
 /* Page title */
 main > h1 {
     margin: 70px auto 50px;
     padding: 0 30px;
-
     font-size: 48px;
     text-align: center;
 }
